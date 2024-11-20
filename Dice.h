@@ -4,7 +4,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 // Dice variables
 Vector2 dicePosition = { SCREEN_WIDTH - DICE_SIZE - 35.0f, 200.0f }; // Dice position at 100x100 size
 int diceValue = 1;            // Final dice face
