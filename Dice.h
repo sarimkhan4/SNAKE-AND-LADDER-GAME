@@ -70,7 +70,7 @@ void UpdateDiceRolling(float deltaTime) {
 void DrawDice() {
     // Display Current turn message
     DrawTextEx(MyFont, TextFormat("CURRENT TURN : %s", playerNames[currentPlayer]), (Vector2) {750, 70}, 30, 1.0f, BLACK);
-    // Display prompt above the dice
+    // Display prompt below the dice
     DrawTextEx(MyFont, "CLICK ON DICE TO ROLL", (Vector2) {750, 120}, 30, 5.0f, BLACK);
 
     // Draw the dice with rotation if rolling, else draw normally
