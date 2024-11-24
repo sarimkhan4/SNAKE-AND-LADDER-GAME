@@ -14,3 +14,6 @@
 ** All the code is breaked into different header files**
 
 ** All the images and font used is inside the Resources folder**
+
+**Complete information about the functions used and their working 
+  is included in the pdf file name "Game Report"**
